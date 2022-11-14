@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MPoinelli
+- 👋 Ciao!
 - I build and use numerical models to study ice and ocean in Antarctica 🇦🇶
 <!---
 MPoinelli/MPoinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

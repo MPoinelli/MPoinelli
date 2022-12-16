@@ -1,4 +1,4 @@
-👋 Ciao! I'm Mattia
+Ciao! I'm Mattia
 
 I build and run numerical models to study ice and ocean in Antarctica 🇦🇶
 <!---
